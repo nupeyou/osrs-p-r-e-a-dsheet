@@ -28,7 +28,7 @@ import time
 # set a helpful user agent, this info will be passed on to the wiki's servers
 # read this section before setting a user agent https://oldschool.runescape.wiki/w/RuneScape:Real-time_Prices#Please_set_a_descriptive_User-Agent!
 
-user_agent = 'margin analyzer @ nou#0999'
+user_agent = 'margin analyzer @ {insert discord handle}'
 
 ################################### SETUP - program needs to know excel tab names #############
 
